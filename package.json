@@ -1,0 +1,22 @@
+{
+  "name": "academlo-primer-exe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "dev": "nodemon start index",
+    "test": "jest --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.4"
+  },
+  "dependencies": {
+    "fs": "*",
+    "nodemon": "^2.0.12",
+    "path": "^0.12.7"
+  }
+}
